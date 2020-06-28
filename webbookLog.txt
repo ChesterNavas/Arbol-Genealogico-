@@ -1,0 +1,118 @@
+Iniciada la generación del Webbook
+----------- WebBook  - Publicación mejorada localmente o en Internet -----------
+WebBook  - 11.0.10272
+----------- Inicio de la generación de páginas -----------
+Sun Jun 28 10:31:28 CST 2020
+ 
+ 
+----------- Parámetros usados durante la generación -----------
+param_title = Genealogía NAVAS
+param_author = Chester Navas
+param_address = Tegucigalpa, Honduras
+param_phone = 3274-9721
+param_email = chester.navasd@gmail.com
+param_dispMsg = 1
+param_dispStatAncestor = 1
+param_dispStatLoc = 1
+param_message = Sugerencias para actualizaciones por whatsapp.
+param_decujus = Navas Zambrana, Nicolas Wenceslao (°6 Ene 1904 +30 Abr 1994) (I200)
+param_unknown = ?
+param_dispSpouse = 1
+param_dispKids = 1
+param_dispSiblings = 1
+param_dispRelations = 1
+param_dispNotes = 1
+param_dispId = 1
+param_dispEmailButton = 1
+param_hidePrivateData = 0
+param_media_GeneSources = 1
+param_media_DisplaySources = Sin datos para el individuo asociado
+param_media_CopySources = 1
+param_media_GeneMedia = 1
+param_media_CopyMedia = 1
+param_media_GeneMap = 1
+param_media_DispUnknownLoc = 1
+param_dispAncestors = 1
+param_ancestorMinGen = 5
+param_ancestorMaxGen = 99
+param_ancestorSource = No mencionar las fuentes
+param_localWebDir = C:\Users\Navas1\.ancestris\trunk\WebBook
+param_logFile = C:\Users\Navas1\.ancestris\trunk\WebBook\webbookLog.txt
+param_FTP_upload = 0
+param_PHP_Support = 0
+----------- 
+ 
+----------- Limpiando directorio local -----------
+ 
+----------- Inicializando secciones de WebBook -----------
+Apellidos
+Lista de los individuos
+Detalles de los individuos
+Fuentes
+Fotos y otros multimedia
+Lista de ciudades
+Detalles de ciudades
+Calendario familiar
+Detalles del calendario
+Grado de endogamia
+Estadísticas
+Lista de ancestros
+Búsqueda de individuos
+Mapa geográfico
+
+ 
+----------- Creando secciones WebBook -----------
+theme: ok 
+includes: ok 
+names.html: ok 
+persons_1.html: ok 
+persons_2.html: ok 
+personsdetails_1.html: ok 
+personsdetails_2.html: ok 
+personsdetails_3.html: ok 
+personsdetails_4.html: ok 
+personsdetails_5.html: ok 
+personsdetails_6.html: ok 
+personsdetails_7.html: ok 
+popupemail.htm: ok 
+sources_0.html: ok 
+sources_1.html: ok 
+popup.htm: ok 
+media_0.html: ok 
+media_1.html: ok 
+media_2.html: ok 
+media_3.html: ok 
+media_4.html: ok 
+media_5.html: ok 
+media_6.html: ok 
+media_7.html: ok 
+media_8.html: ok 
+media_9.html: ok 
+media_10.html: ok 
+media_11.html: ok 
+popup.htm: ok 
+cities.html: ok 
+citiesdetails_1.html: ok 
+days.html: ok 
+daysdetails_1.html: ok 
+daysdetails_2.html: ok 
+daysdetails_3.html: ok 
+stats_1.html: ok 
+stats_2.html: ok 
+search_0.html: ok 
+search_4.js: ok 
+map.html: ok 
+Number of ascendants: 10
+Number of cousins: 146
+22 lugares no se han encontrado. Si hubiera iniciado el módulo Geo anteriormente, Ancestris habría almacenado los lugares localmente para una recuperación más fácil.
+map-markers.js: ok 
+index.html: ok 
+ 
+----------- Transfiriendo archivos a su sitito WEB -----------
+No se requiere subida del archivo
+ 
+----------- Mostrando páginas WEB -----------
+ 
+Sun Jun 28 10:32:01 CST 2020
+----------- Fin de la generación de páginas -----------
+Generación del Webbook completada con éxito :))))
